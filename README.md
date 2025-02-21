@@ -1,6 +1,6 @@
 
 # A/B Testing in E-Commerce 🛍️🚀
-
+![122](https://github.com/user-attachments/assets/e0a25844-a2b5-48c7-ae18-5ce66f65c211)
 Welcome to the **A/B Testing in E-Commerce** project! This repository contains a comprehensive analysis aimed at evaluating website design changes through rigorous statistical testing. Our goal is to improve user experience, boost conversion rates, and ultimately drive revenue growth. 
 
 ---
@@ -22,11 +22,13 @@ Welcome to the **A/B Testing in E-Commerce** project! This repository contains a
 
 ---
 
+
 ## Overview 🔍
 
 In this project, we implement an A/B testing framework to compare two versions of a website:
 - **Control (Old Page):** The current design.
 - **Treatment (New Page):** A redesigned version intended to improve conversions.
+![image](https://github.com/user-attachments/assets/668a2847-4205-4ce7-a060-a2838beee0ea)
 
 We analyze user behavior using Python and a suite of statistical tests to determine whether the new design significantly impacts conversion rates. 
 
